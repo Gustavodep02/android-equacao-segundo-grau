@@ -16,10 +16,11 @@
         android:ems="10"
         android:hint="@string/valor_a"
         android:importantForAutofill="no"
-        android:inputType="numberSigned"
+        android:inputType="numberSigned|numberDecimal"
         android:textColorHint="#000000"
         app:layout_constraintBottom_toTopOf="@+id/tvDelta"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -40,7 +41,7 @@
         android:ems="10"
         android:hint="@string/valor_b"
         android:importantForAutofill="no"
-        android:inputType="numberSigned"
+        android:inputType="numberSigned|numberDecimal"
         android:textColorHint="@color/black"
         app:layout_constraintStart_toStartOf="@+id/etValorA"
         app:layout_constraintTop_toBottomOf="@+id/etValorA" />
@@ -53,7 +54,7 @@
         android:ems="10"
         android:hint="@string/valor_c"
         android:importantForAutofill="no"
-        android:inputType="numberSigned"
+        android:inputType="numberSigned|numberDecimal"
         android:textColorHint="@color/black"
         app:layout_constraintStart_toStartOf="@+id/etValorB"
         app:layout_constraintTop_toBottomOf="@+id/etValorB" />

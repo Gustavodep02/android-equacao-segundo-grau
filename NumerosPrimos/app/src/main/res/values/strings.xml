@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NumerosPrimos</string>
+    <string name="num_invalido">Número inválido! Os valores devem ser entre 0 e 50</string>
+    <string name="num_primos">Números primos: </string>
+    <string name="valorA">Valor A</string>
+    <string name="valorB">Valor B</string>
+    <string name="verificar">Verificar</string>
+</resources>

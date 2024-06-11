@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EquacaoSegundoGrau</string>
+    <string name="valorA">Valor A</string>
+    <string name="valorB">Valor B</string>
+    <string name="valorC">Valor C</string>
+    <string name="x1">X1 =</string>
+    <string name="x2">X2 =</string>
+    <string name="delta">Delta =</string>
+    <string name="raiz">Raiz =</string>
+    <string name="calcular">Calcular</string>
+    <string name="nao_existe">Não existe</string>
+    <string name="e">e</string>
+
+</resources>
