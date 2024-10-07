@@ -10,7 +10,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-
+/*
+ *@author:<Gustavo de Paula>
+ */
 public class MainActivity extends AppCompatActivity {
 
     private EditText etValorA, etValorB, etValorC;
